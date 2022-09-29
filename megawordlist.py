@@ -1,4 +1,3 @@
-Python Code :
 import time
 
 word = R"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~"
@@ -17,6 +16,6 @@ with open("megalist.txt","w") as mega:
 											print(f"\r{a}{b}{c}{d}{f}{g}{h}{e}{s}{g}",end="")
 											mega.write(f"{a}{b}{c}{d}{f}{g}{h}{e}{s}{g}\n")
 
-Length : 9
-Include Characters : 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~
-File Size : 95*5 Zettabytes
+#Length : 9
+#Include Characters : 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~
+#File Size : 95*5 Zettabytes
